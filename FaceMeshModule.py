@@ -1,5 +1,5 @@
 """
-Measure Face Distance
+Face Mesh Mediapipe
 By: Toan Tran
 Email: chitoantran@outlook.com
 Phone: +84919730811
